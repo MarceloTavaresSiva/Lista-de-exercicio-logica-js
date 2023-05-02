@@ -23,6 +23,3 @@ function exibir() {
     document.write("Aumento = " + aumento+ "<br />");
     document.write("Salario ajustado = " + novoSalario);
 }
-
-
-

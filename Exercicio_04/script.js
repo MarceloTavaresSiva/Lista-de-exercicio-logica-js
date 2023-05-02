@@ -7,5 +7,4 @@ function verificar() {
     else {
         document.write("Consoante");
     }
-
 }

@@ -3,7 +3,6 @@ function verificar() {
     var nota2 = parseFloat(document.getElementById("nota2").value);
     var nota3 = parseFloat(document.getElementById("nota3").value);
 
-
     if(nota1 >= nota2 && nota1 >= nota3) {
         document.write("Maior numero e: " + nota1);
     }
